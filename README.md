@@ -10,7 +10,9 @@
 ## 通用工具
 
 * [dash 播放工具]（http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html#）
+* [hls fmp4播放地址]（https://bitmovin.com/hls-news-wwdc-2016/）
 
 ##  HLS协议草案
 
 * [hls 最新的协议草案 draft-pantos-http-live-streaming-23（cbcs）] （https://tools.ietf.org/html/draft-pantos-http-live-streaming-23）
+
