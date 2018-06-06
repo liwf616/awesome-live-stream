@@ -11,6 +11,7 @@
 
 * [dash 播放工具]（http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html#）
 * [hls fmp4播放地址]（https://bitmovin.com/hls-news-wwdc-2016/）
+* [mp4box 工具]（https://gpac.wp.imt.fr/mp4box/dash/）
 
 ##  HLS协议草案
 
