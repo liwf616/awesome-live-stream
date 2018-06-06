@@ -17,3 +17,13 @@
 
 * [hls 最新的协议草案 draft-pantos-http-live-streaming-23（cbcs）] （https://tools.ietf.org/html/draft-pantos-http-live-streaming-23）
 
+
+## 常用的命令
+
+1. 将ss.mp4切割成fragment mp4。
+
+```
+mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
+```
+
+
