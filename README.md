@@ -17,7 +17,7 @@
 * [mp4box 工具]（https://gpac.wp.imt.fr/mp4box/dash/）
 
 
-##  协议草案
+## 协议规范
 
 * [hls 最新的协议（cbcs）] （https://tools.ietf.org/html/rfc8216）
 
