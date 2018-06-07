@@ -32,4 +32,11 @@
 mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
 ```
 
+2. qt实现的mp4分析工具
+
+```
+https://github.com/ksvc/MediaParser
+```
+
+3. mp4dump工具
 
