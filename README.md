@@ -40,3 +40,7 @@ https://github.com/ksvc/MediaParser
 
 3. mp4dump工具
 
+## 播放地址
+HLS fmp4
+https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8
+
