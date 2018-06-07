@@ -13,9 +13,11 @@
 * [hls fmp4播放地址]（https://bitmovin.com/hls-news-wwdc-2016/）
 * [mp4box 工具]（https://gpac.wp.imt.fr/mp4box/dash/）
 
-##  HLS协议草案
+##  协议草案
 
 * [hls 最新的协议草案 draft-pantos-http-live-streaming-23（cbcs）] （https://tools.ietf.org/html/draft-pantos-http-live-streaming-23）
+
+* [mp4 规范, 亚马逊的fmp4实现参照这个方案] (http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 
 
 ## 常用的命令
