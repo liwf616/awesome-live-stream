@@ -7,12 +7,15 @@
 * [fmp4开源 shaka-packager] （https://github.com/google/shaka-packager/commit/4891d9a6bf96f3655a7df4b908f96cc036a8c51b）
 * [nginx rtmp -> dash] (https://github.com/arut/nginx-rtmp-module)
 * [nginx ts->dash] (https://github.com/arut/nginx-ts-module)
+* [mp4协议介绍。学好 MP4，让直播更给力](https://www.villainhr.com/page/2017/08/21/%E5%AD%A6%E5%A5%BD%20MP4%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%9B%B4%E7%BB%99%E5%8A%9B）
+
 
 ## 通用工具
 
 * [dash 播放工具]（http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html#）
 * [hls fmp4播放地址]（https://bitmovin.com/hls-news-wwdc-2016/）
 * [mp4box 工具]（https://gpac.wp.imt.fr/mp4box/dash/）
+
 
 ##  协议草案
 
