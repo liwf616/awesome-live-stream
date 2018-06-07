@@ -19,7 +19,7 @@
 
 ##  协议草案
 
-* [hls 最新的协议草案 draft-pantos-http-live-streaming-23（cbcs）] （https://tools.ietf.org/html/draft-pantos-http-live-streaming-23）
+* [hls 最新的协议（cbcs）] （https://tools.ietf.org/html/rfc8216）
 
 * [mp4 规范, 亚马逊的fmp4实现参照这个方案] (http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 
