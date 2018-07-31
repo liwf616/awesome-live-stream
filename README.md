@@ -25,6 +25,9 @@
 
 * [mp4 规范, 亚马逊的fmp4实现参照这个方案] (http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 
+* [HLS对4K技术的支持] (http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Apple-Got-It-Wrong-Encoding-Specs-for-HEVC-in-HLS--121878.aspx)
+
+* [HLS对HDR技术的支持] (https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
 
 ## 常用的命令
 
