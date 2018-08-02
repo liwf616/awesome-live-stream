@@ -29,7 +29,7 @@
 
 * [HLS对HDR技术的支持] (https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
 
-* [HLS vs DASH vs HDS vs MSS] (https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
+* [HLS vs DASH vs HDS vs MSS] (https://bitmovin.com/mpeg-dash-vs-apple-hls-vs-microsoft-smooth-streaming-vs-adobe-hds/)
 
 ## 音视频峰会
 
