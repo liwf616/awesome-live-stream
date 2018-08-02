@@ -29,6 +29,8 @@
 
 * [HLS对HDR技术的支持] (https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
 
+* [HLS vs DASH vs HDS vs MSS] (https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
+
 ## 音视频峰会
 
 * [WWDC17 – HEVC with HLS] (https://bitmovin.com/wwdc17-hevc-hls-apple-just-announced-feature-support-box/)
