@@ -39,19 +39,26 @@
 
 ## 常用的命令
 
-1. 将ss.mp4切割成fragment mp4。
+1. 用mp4box将ss.mp4切割成fragment mp4。
 
 ```
 mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
 ```
 
-2. qt实现的mp4分析工具
+2. 用mp4将ss.mp4切割成fragment mp4。
+
+```
+1. mp4fragment ss.mp4 ss_fragment.mp4
+2. mp4dash --use-segment-timeline ss_fragment.mp4
+```
+
+3. qt实现的mp4分析工具
 
 ```
 https://github.com/ksvc/MediaParser
 ```
 
-3. mp4dump工具
+4. mp4dump工具
 
 ## 播放地址
 * [HLS fmp4 h264] (https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
