@@ -1,15 +1,19 @@
-## 学习资料快速链接
+## dash学习资料快速链接
 
 * [fmp4实现开源方式](https://github.com/axiomatic-systems/Bento4)
-* [fmp4 nginx实现，nginx-vod-module](https://github.com/kaltura/nginx-vod-module)
+* [fmp4 nginx实现-nginx-vod-module](https://github.com/kaltura/nginx-vod-module)
 * [dash相关介绍](https://bitmovin.com/dynamic-adaptive-streaming-http-mpeg-dash)
 * [hls vs dash](https://www.vidbeo.com/blog/hls-vs-dash)
-* [fmp4开源 shaka-packager](https://github.com/google/shaka-packager/commit/4891d9a6bf96f3655a7df4b908f96cc036a8c51b)
+* [fmp4开源-shaka-packager](https://github.com/google/shaka-packager/commit/4891d9a6bf96f3655a7df4b908f96cc036a8c51b)
 * [nginx rtmp -> dash](https://github.com/arut/nginx-rtmp-module)
 * [nginx ts->dash](https://github.com/arut/nginx-ts-module)
 * [mp4协议介绍。学好 MP4，让直播更给力](https://www.villainhr.com/page/2017/08/21/%E5%AD%A6%E5%A5%BD%20MP4%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%9B%B4%E7%BB%99%E5%8A%9B)
 * [媒体文件格式分析之FMP4](https://github.com/liwf616/awesome-dash/wiki)
+
+## webrtc学习资料快速链接
+
 * [rtc调研报告 && webrtc](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
+* [webrtc学习之fec模块](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 
 
 ## 通用工具
