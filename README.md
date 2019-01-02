@@ -12,7 +12,7 @@
 
 ## webrtc学习资料快速链接
 
-* [rtc调研报告 && webrtc](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
+* [rtc调研报告 && webrtc 技术栈学习](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 
 
