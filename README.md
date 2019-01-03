@@ -1,4 +1,4 @@
-## dash学习资料快速链接
+## DASH学习资料快速链接
 
 * [fmp4实现开源方式](https://github.com/axiomatic-systems/Bento4)
 * [fmp4 nginx实现-nginx-vod-module](https://github.com/kaltura/nginx-vod-module)
@@ -10,9 +10,9 @@
 * [mp4协议介绍。学好 MP4，让直播更给力](https://www.villainhr.com/page/2017/08/21/%E5%AD%A6%E5%A5%BD%20MP4%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%9B%B4%E7%BB%99%E5%8A%9B)
 * [媒体文件格式分析之FMP4](https://github.com/liwf616/awesome-dash/wiki)
 
-## webrtc学习资料快速链接
+## Webrtc学习资料快速链接
 
-* [**rtc调研报告 && webrtc 技术栈学习**](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
+* [rtc调研报告 && webrtc 技术栈学习](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 * [Comparative Study of WebRTC Open Source SFUs
 for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
@@ -22,11 +22,12 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 ## 通用工具
 
-* [dash 播放工具](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
-* [hls fmp4播放地址](https://bitmovin.com/hls-news-wwdc-2016)
+* [dash 播放器](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
+* [hls fmp4播放器](https://bitmovin.com/hls-news-wwdc-2016)
 * [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
-* [hls.js 播放工具](http://video-dev.github.io/hls.js/demo/)
+* [hls.js 播放器](http://video-dev.github.io/hls.js/demo/)
 * [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
+* [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
 
 
 ## 协议规范
@@ -62,15 +63,9 @@ mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out
 2. mp4dash --use-segment-timeline ss_fragment.mp4
 ```
 
-3. qt实现的mp4分析工具
-
-```
-https://github.com/ksvc/MediaParser
-```
-
 4. mp4dump工具
 
 ## 播放地址
-* [HLS fmp4 h264] (https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
-* [HLS fmp4 h265] (http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
+* [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
+* [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
 
