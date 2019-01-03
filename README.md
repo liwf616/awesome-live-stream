@@ -14,6 +14,8 @@
 
 * [**rtc调研报告 && webrtc 技术栈学习（补充ing**）](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
+* [Comparative Study of WebRTC Open Source SFUs
+for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
 
 
 ## 通用工具
