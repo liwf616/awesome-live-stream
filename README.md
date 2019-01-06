@@ -23,7 +23,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [Improving Scale and Media Quality with Cascading SFUs](https://webrtchacks.com/sfu-cascading/)
 * [Considerations for deploying a geographically distributed video conferencing system](https://jitsi.org/wp-content/uploads/2018/11/ccwc2018-geo.pdf)
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
-* [medooze开源实现-19年必须学会的webrtc项目](https://github.com/medooze/media-server)
+* [webrtc开源项目--medooze(**19年必学**）](https://github.com/medooze/media-server)
 
 
 ## 通用工具
