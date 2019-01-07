@@ -25,15 +25,15 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
 * [webrtc开源项目--medooze(**19年必学**）](https://github.com/medooze/media-server)
 
-## Quic && KCP 学习
+## Quic && KCP 学习资料快速链接
 
 * [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
 * [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 
-## Nginx学习
+## Nginx学习资料快速链接
 
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
-* [深入理解Nginx模块开发和架构解析]()
+* [深入理解Nginx模块开发和架构解析](https://github.com/cjl3080434008/2014/blob/master/read_book/nginx/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E5%8F%8A%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.pdf)
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
 
