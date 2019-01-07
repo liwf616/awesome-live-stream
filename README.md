@@ -30,6 +30,11 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
 * [golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 
+## Nginx学习
+
+* [nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
+* [深入理解nginx模块开发和架构解析]()
+
 
 ## 通用工具
 
