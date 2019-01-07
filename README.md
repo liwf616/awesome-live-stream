@@ -25,6 +25,11 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
 * [webrtc开源项目--medooze(**19年必学**）](https://github.com/medooze/media-server)
 
+## Quic && KCP 学习
+
+* [nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
+* [golang版本quic-quic-go](https://github.com/lucas-clemente/quic-go)
+
 
 ## 通用工具
 
