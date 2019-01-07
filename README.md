@@ -45,7 +45,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 * [hls 最新的协议（cbcs）](https://tools.ietf.org/html/rfc8216)
 
-* [mp4 规范, 亚马逊的fmp4实现参照这个方案](http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
+* [mp4 规范(亚马逊的fmp4实现参照这个方案)](http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 
 * [HLS对4K技术的支持](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Apple-Got-It-Wrong-Encoding-Specs-for-HEVC-in-HLS--121878.aspx)
 
