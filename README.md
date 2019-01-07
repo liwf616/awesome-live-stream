@@ -27,13 +27,13 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 ## Quic && KCP 学习
 
-* [nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
-* [golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
+* [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
+* [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 
 ## Nginx学习
 
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
-* [深入理解nginx模块开发和架构解析]()
+* [深入理解Nginx模块开发和架构解析]()
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
 
