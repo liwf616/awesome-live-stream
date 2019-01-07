@@ -32,8 +32,9 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 ## Nginx学习
 
-* [nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
+* [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
 * [深入理解nginx模块开发和架构解析]()
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 
 
 ## 通用工具
