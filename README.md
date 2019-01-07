@@ -16,6 +16,7 @@
 
 ## Webrtc学习资料快速链接
 
+* [完整WebRTC技术及应用概要](https://mp.weixin.qq.com/s/EC8Yd74HEoIO2QxJe8-iNQ)
 * [rtc调研报告 && webrtc 技术栈学习](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 * [Comparative Study of WebRTC Open Source SFUs
