@@ -36,6 +36,8 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
 * [深入理解Nginx模块开发和架构解析](https://github.com/cjl3080434008/2014/blob/master/read_book/nginx/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Nginx%E6%A8%A1%E5%9D%97%E5%BC%80%E5%8F%91%E5%8F%8A%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.pdf)
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
+* [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
+* [BLSS(NGINX-based Live Media Streaming Server)](https://github.com/gnolizuh/BLSS)
 
 
 ## 通用工具
