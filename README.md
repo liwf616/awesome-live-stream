@@ -73,25 +73,23 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 * [WWDC16: HLS Supports Fragmented MP4](https://bitmovin.com/hls-news-wwdc-2016/)
 
-## 常用的命令
+## HLS fmp4播放地址
+* [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
+* [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
+
+## dash常用的命令
 
 1. 用mp4box将ss.mp4切割成fragment mp4。
 
-```
+```shell
 mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
 ```
 
 2. 用mp4将ss.mp4切割成fragment mp4。
 
-```
+```shell
 1. mp4fragment ss.mp4 ss_fragment.mp4
 2. mp4dash --use-segment-timeline ss_fragment.mp4
 ```
 
-4. mp4dump工具
-
-## 播放地址
-* [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
-* [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
-
-[TOC]
+3. mp4dump工具
