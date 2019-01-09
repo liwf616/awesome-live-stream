@@ -26,6 +26,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
 * [谁是最好的WebRTC SFU？](https://mp.weixin.qq.com/s/H_kBcWrzvqFlvSJyPXCeQw)
 * [WebRTC Media Server--medooze(19年必学)](https://github.com/medooze)
+* [medooze 学习笔记](https://github.com/liwf616/awesome-live-stream/wiki/medooze)
 * [WebRTC Media Server--pions](https://github.com/pions/webrtc)
 * [WebRTC Media Server--janus](https://github.com/meetecho/janus-gateway)
 
