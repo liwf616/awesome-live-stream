@@ -45,19 +45,9 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [BLSS(NGINX-based Live Media Streaming Server)](https://github.com/gnolizuh/BLSS)
 
 
-## 通用工具
+## HLS协议规范
 
-* [dash 播放器](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
-* [hls fmp4播放器](https://bitmovin.com/hls-news-wwdc-2016)
-* [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
-* [hls.js 播放器](http://video-dev.github.io/hls.js/demo/)
-* [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
-* [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
-
-
-## 协议规范
-
-* [hls 最新的协议（cbcs）](https://tools.ietf.org/html/rfc8216)
+* [HLS 最新的协议（cbcs）](https://tools.ietf.org/html/rfc8216)
 
 * [mp4 规范(亚马逊的fmp4实现参照这个方案)](http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
 
@@ -77,7 +67,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
 * [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
 
-## dash常用的命令
+## DASH常用的命令
 
 1. 用mp4box将ss.mp4切割成fragment mp4。
 
@@ -93,3 +83,12 @@ mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out
 ```
 
 3. mp4dump工具
+
+## 通用工具
+
+* [DASH 播放器](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
+* [HLS fmp4播放器](https://bitmovin.com/hls-news-wwdc-2016)
+* [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
+* [hls.js 播放器](http://video-dev.github.io/hls.js/demo/)
+* [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
+* [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
