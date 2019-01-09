@@ -33,6 +33,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 * [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
 * [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
+* [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
 
 ## Nginx学习资料快速链接
 
