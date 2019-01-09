@@ -24,7 +24,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [Improving Scale and Media Quality with Cascading SFUs](https://webrtchacks.com/sfu-cascading/)
 * [Considerations for deploying a geographically distributed video conferencing system](https://jitsi.org/wp-content/uploads/2018/11/ccwc2018-geo.pdf)
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
-* [谁是最好的WebRTC SFU？](https://yq.aliyun.com/articles/668507)
+* [谁是最好的WebRTC SFU？](https://mp.weixin.qq.com/s/H_kBcWrzvqFlvSJyPXCeQw)
 * [WebRTC Media Server--medooze(19年必学)](https://github.com/medooze)
 * [WebRTC Media Server--pions](https://github.com/pions/webrtc)
 * [WebRTC Media Server--janus](https://github.com/meetecho/janus-gateway)
