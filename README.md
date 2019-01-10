@@ -31,11 +31,12 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [WebRTC Media Server--janus](https://github.com/meetecho/janus-gateway)
 * [SIP系列讲座-NAT解决方法探讨-STUN-TURN-ICE](https://mp.weixin.qq.com/s?__biz=MzA4NjU0NTIwNQ==&mid=2656444027&idx=1&sn=3a5236c3bdff4e411db0f3a3a0d8cded&chksm=8465b821b3123137e21d15d510757b9a344294ab9e53a17975bcca0e351f917daa4793723a4c&scene=21#wechat_redirect)
 
-## Quic && KCP 学习资料快速链接
+## Quic && KCP && KTP学习资料快速链接
 
 * [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
 * [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 * [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
+* [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
 
 ## Nginx学习资料快速链接
 
