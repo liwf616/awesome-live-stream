@@ -9,9 +9,11 @@
 * [nginx ts->dash](https://github.com/arut/nginx-ts-module)
 * [mp4协议介绍。学好 MP4，让直播更给力](https://www.villainhr.com/page/2017/08/21/%E5%AD%A6%E5%A5%BD%20MP4%EF%BC%8C%E8%AE%A9%E7%9B%B4%E6%92%AD%E6%9B%B4%E7%BB%99%E5%8A%9B)
 * [媒体文件格式分析之FMP4](https://github.com/liwf616/awesome-dash/wiki)
+* [Device and Cross Browser Support For DASH](https://bitmovin.com/docs/player/articles/device-and-cross-browser-support)
 
 ## HLS学习资料快速链接
 
+* [HTTP Live Streaming(rfc8216)](https://tools.ietf.org/html/rfc8216)
 * [hls之m3u8、ts流格式详解](https://my.oschina.net/u/727148/blog/666824)
 
 ## Webrtc学习资料快速链接
