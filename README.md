@@ -98,3 +98,4 @@ mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out
 * [mp4box 工具](https://gpac.wp.imt.fr/mp4box/dash/)
 * [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
 * [弱网模拟的工具](https://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)
+* [弱网模拟的工具-clumsy](https://jagt.github.io/clumsy/)
