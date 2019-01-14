@@ -32,6 +32,7 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [WebRTC Media Server--pions](https://github.com/pions/webrtc)
 * [WebRTC Media Server--janus](https://github.com/meetecho/janus-gateway)
 * [SIP系列讲座-NAT解决方法探讨-STUN-TURN-ICE](https://mp.weixin.qq.com/s?__biz=MzA4NjU0NTIwNQ==&mid=2656444027&idx=1&sn=3a5236c3bdff4e411db0f3a3a0d8cded&chksm=8465b821b3123137e21d15d510757b9a344294ab9e53a17975bcca0e351f917daa4793723a4c&scene=21#wechat_redirect)
+* [跨国实时网络调度系统设计(即构科技)](https://mp.weixin.qq.com/s/fAD6BG0fW86iTZYv-EPHMA)
 
 ## Quic && KCP && KTP学习资料快速链接
 
