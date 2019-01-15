@@ -24,6 +24,7 @@
 * [Comparative Study of WebRTC Open Source SFUs
 for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
 * [Improving Scale and Media Quality with Cascading SFUs](https://webrtchacks.com/sfu-cascading/)
+* [Optimizing video quality using Simulcast (Oscar Divorra)](https://webrtchacks.com/sfu-simulcast/)
 * [Considerations for deploying a geographically distributed video conferencing system](https://jitsi.org/wp-content/uploads/2018/11/ccwc2018-geo.pdf)
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
 * [谁是最好的WebRTC SFU？](https://mp.weixin.qq.com/s/H_kBcWrzvqFlvSJyPXCeQw)
