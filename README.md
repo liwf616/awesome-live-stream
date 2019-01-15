@@ -56,6 +56,8 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 * [HTTP Live Streaming(rfc8216)](https://tools.ietf.org/html/rfc8216)
 * [hls之m3u8、ts流格式详解](https://my.oschina.net/u/727148/blog/666824)
+* [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
+* [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
 
 ## HLS协议规范
 
@@ -69,15 +71,6 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 
 * [HLS vs DASH vs HDS vs MSS](https://bitmovin.com/mpeg-dash-vs-apple-hls-vs-microsoft-smooth-streaming-vs-adobe-hds/)
 
-## 音视频峰会
-
-* [WWDC17 – HEVC with HLS](https://bitmovin.com/wwdc17-hevc-hls-apple-just-announced-feature-support-box/)
-
-* [WWDC16: HLS Supports Fragmented MP4](https://bitmovin.com/hls-news-wwdc-2016/)
-
-## HLS fmp4播放地址
-* [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
-* [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
 
 ## DASH常用的命令
 
@@ -106,3 +99,11 @@ mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out
 * [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
 * [弱网模拟的工具-network-emulator-toolkit](https://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)
 * [弱网模拟的工具-clumsy](https://jagt.github.io/clumsy/)
+
+
+## 音视频峰会
+
+* [WWDC16: HLS Supports Fragmented MP4](https://bitmovin.com/hls-news-wwdc-2016/)
+* [WWDC17 – HEVC with HLS](https://bitmovin.com/wwdc17-hevc-hls-apple-just-announced-feature-support-box/)
+* [2017腾讯LIVE开发者大会](https://github.com/iv-web/ppts/tree/master/2017_TLC_ppts)
+* [2018腾讯LIVE开发者大会](https://github.com/iv-web/ppts/tree/master/2018_TLC_ppts)
