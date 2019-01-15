@@ -50,6 +50,12 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
 * [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module)
 * [BLSS(NGINX-based Live Media Streaming Server)](https://github.com/gnolizuh/BLSS)
+* [Nginx限速模块初探](https://www.cnblogs.com/CarpenterLee/p/8084533.html)
+* [动态追踪技术漫谈](https://openresty.org/posts/dynamic-tracing/)
+* [lua-nginx-module](https://github.com/openresty/lua-nginx-module)
+* [openresty-systemtap-toolkit ](https://github.com/openresty/openresty-systemtap-toolkit)
+* [sample-bt](https://github.com/openresty/openresty-systemtap-toolkit#sample-bt)
+* [ngx-sample-lua-bt](https://github.com/openresty/openresty-systemtap-toolkit#ngx-sample-lua-bt)
 
 
 ## HLS协议规范
