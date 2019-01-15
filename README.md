@@ -11,11 +11,6 @@
 * [媒体文件格式分析之FMP4](https://github.com/liwf616/awesome-dash/wiki)
 * [Device and Cross Browser Support For DASH](https://bitmovin.com/docs/player/articles/device-and-cross-browser-support)
 
-## HLS学习资料快速链接
-
-* [HTTP Live Streaming(rfc8216)](https://tools.ietf.org/html/rfc8216)
-* [hls之m3u8、ts流格式详解](https://my.oschina.net/u/727148/blog/666824)
-
 ## Webrtc学习资料快速链接
 
 * [完整WebRTC技术及应用概要](https://mp.weixin.qq.com/s/EC8Yd74HEoIO2QxJe8-iNQ)
@@ -36,13 +31,6 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [跨国实时网络调度系统设计(即构科技)](https://mp.weixin.qq.com/s/fAD6BG0fW86iTZYv-EPHMA)
 * [在Google Chrome WebRTC中分层蛋糕式的VP9 SVC](https://www.zego.im/article/2018/02/26/%E5%9C%A8google-chrome-webrtc%E4%B8%AD%E5%88%86%E5%B1%82%E8%9B%8B%E7%B3%95%E5%BC%8F%E7%9A%84vp9-svc/)
 
-## Quic && KCP && KTP学习资料快速链接
-
-* [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
-* [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
-* [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
-* [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
-
 ## Nginx学习资料快速链接
 
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
@@ -54,9 +42,20 @@ for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comp
 * [动态追踪技术漫谈](https://openresty.org/posts/dynamic-tracing/)
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 * [openresty-systemtap-toolkit ](https://github.com/openresty/openresty-systemtap-toolkit)
-* [sample-bt](https://github.com/openresty/openresty-systemtap-toolkit#sample-bt)
-* [ngx-sample-lua-bt](https://github.com/openresty/openresty-systemtap-toolkit#ngx-sample-lua-bt)
+* [sample-bt (CPU Flame Graphs)](https://github.com/openresty/openresty-systemtap-toolkit#sample-bt)
+* [ngx-sample-lua-bt (CPU Flame Graphs)](https://github.com/openresty/openresty-systemtap-toolkit#ngx-sample-lua-bt)
 
+## Quic && KCP && KTP学习资料快速链接
+
+* [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
+* [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
+* [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
+* [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
+
+## HLS学习资料快速链接
+
+* [HTTP Live Streaming(rfc8216)](https://tools.ietf.org/html/rfc8216)
+* [hls之m3u8、ts流格式详解](https://my.oschina.net/u/727148/blog/666824)
 
 ## HLS协议规范
 
