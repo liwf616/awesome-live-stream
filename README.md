@@ -16,10 +16,8 @@
 * [完整WebRTC技术及应用概要](https://mp.weixin.qq.com/s/EC8Yd74HEoIO2QxJe8-iNQ)
 * [rtc调研报告 && webrtc 技术栈学习](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
-* [Comparative Study of WebRTC Open Source SFUs
-for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
 * [Comparative Study of WebRTC Open Source SFUs for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
-* [Comparative Study of WebRTC Open Source SFUs for Video Conferencing](https://www.cosmosoftware.io/publications/andre2018_slides_Comparative_Study_of_SFUs.pdf)
+* [andre2018_slides_Comparative_Study_of_SFUs](https://www.cosmosoftware.io/publications/andre2018_slides_Comparative_Study_of_SFUs.pdf)
 * [Improving Scale and Media Quality with Cascading SFUs](https://webrtchacks.com/sfu-cascading/)
 * [Optimizing video quality using Simulcast (Oscar Divorra)](https://webrtchacks.com/sfu-simulcast/)
 * [Considerations for deploying a geographically distributed video conferencing system](https://jitsi.org/wp-content/uploads/2018/11/ccwc2018-geo.pdf)
