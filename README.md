@@ -104,6 +104,7 @@
 * [rfc5245（ICE)](http://www.faqs.org/rfcs/rfc5245.html)
 * [rfc3550（RTP）](http://www.ietf.org/rfc/rfc3550.txt)
 * [rfc3264（Offer/Answer, SDP）](http://www.faqs.org/rfcs/rfc3264.html)
+* [rfc5389 (stun)](https://tools.ietf.org/html/rfc5389)
 
 ## DASH常用的命令
 
