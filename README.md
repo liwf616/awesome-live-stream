@@ -19,6 +19,7 @@
 * [Native端的API文件](https://webrtc.org/native-code/native-apis/)
 * [webrtchacks](https://webrtchacks.com/)
 * [完整WebRTC技术及应用概要](https://mp.weixin.qq.com/s/EC8Yd74HEoIO2QxJe8-iNQ)
+* [WebRTC权威指南(第三版,支持正版)](https://github.com/mobinsheng/books/blob/master/1.%20WebRTC%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 * [rtc调研报告 && webrtc 技术栈学习](https://github.com/liwf616/awesome-live-stream/wiki/rtc_research)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 * [Comparative Study of WebRTC Open Source SFUs for Video Conferencing(开源webrtc的sfu效果对比)](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
