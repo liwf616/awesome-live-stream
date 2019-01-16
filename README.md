@@ -76,24 +76,6 @@
 
 * [HLS vs DASH vs HDS vs MSS](https://bitmovin.com/mpeg-dash-vs-apple-hls-vs-microsoft-smooth-streaming-vs-adobe-hds/)
 
-
-## DASH常用的命令
-
-1. 用mp4box将ss.mp4切割成fragment mp4。
-
-```shell
-mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
-```
-
-2. 用mp4将ss.mp4切割成fragment mp4。
-
-```shell
-1. mp4fragment ss.mp4 ss_fragment.mp4
-2. mp4dash --use-segment-timeline ss_fragment.mp4
-```
-
-3. mp4dump工具
-
 ## 通用工具
 
 * [DASH 播放器](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
@@ -119,3 +101,20 @@ mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out
 * [rfc5245（ICE)](http://www.faqs.org/rfcs/rfc5245.html)
 * [rfc3550（RTP）](http://www.ietf.org/rfc/rfc3550.txt)
 * [rfc3264（Offer/Answer, SDP）](http://www.faqs.org/rfcs/rfc3264.html)
+
+## DASH常用的命令
+
+1. 用mp4box将ss.mp4切割成fragment mp4。
+
+```shell
+mp4box -dash 5000 -frag 5000 -rap -frag-rap -profile dashavc264:live ss.mp4 -out ss_dash.mpd
+```
+
+2. 用mp4将ss.mp4切割成fragment mp4。
+
+```shell
+1. mp4fragment ss.mp4 ss_fragment.mp4
+2. mp4dash --use-segment-timeline ss_fragment.mp4
+```
+
+3. mp4dump工具
