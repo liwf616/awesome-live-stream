@@ -110,6 +110,7 @@
 * [rfc3264（Offer/Answer, SDP）](http://www.faqs.org/rfcs/rfc3264.html)
 * [rfc5389 (stun)](https://tools.ietf.org/html/rfc5389)
 * [rfc3711 (srtp)](https://www.ietf.org/rfc/rfc3711.txt)
+* [rfc5285 (A General Mechanism for RTP Header Extensions）](https://tools.ietf.org/html/rfc5285)
 
 ## DASH常用的命令
 
