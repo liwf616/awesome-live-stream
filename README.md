@@ -104,6 +104,10 @@
 * [2018腾讯LIVE开发者大会](https://github.com/iv-web/ppts/tree/master/2018_TLC_ppts)
 * [2017杭州云栖大会100位大咖视频+讲义全分享](https://yq.aliyun.com/articles/231065)
 
+## 行业报告
+
+* [Bitmovin: 视频开发者报告 2018](https://mp.weixin.qq.com/s/2o-lt3RKwybE3iXXLc7eqQ)
+
 ## webrtc rfc
 
 * [rfc5245（ICE)](http://www.faqs.org/rfcs/rfc5245.html)
