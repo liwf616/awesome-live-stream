@@ -37,7 +37,7 @@
 * [WebRTC Media Server--pions](https://github.com/pions/webrtc)
 * [WebRTC Media Server--janus](https://github.com/meetecho/janus-gateway)
 * [SIP系列讲座-NAT解决方法探讨-STUN-TURN-ICE](https://mp.weixin.qq.com/s?__biz=MzA4NjU0NTIwNQ==&mid=2656444027&idx=1&sn=3a5236c3bdff4e411db0f3a3a0d8cded&chksm=8465b821b3123137e21d15d510757b9a344294ab9e53a17975bcca0e351f917daa4793723a4c&scene=21#wechat_redirect)
-* [跨国实时网络调度系统设计(即构科技)](https://mp.weixin.qq.com/s/fAD6BG0fW86iTZYv-EPHMA)
+* [跨国实时网络调度系统设计(即构科技)](https://www.zego.im/article/2018/10/29/%E5%86%BC%E7%89%9B%EF%BC%9A%E5%8D%B3%E6%9E%84%E5%AE%9E%E6%97%B6%E7%BD%91%E7%BB%9C%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%B7%A8%E5%9B%BD%E5%9C%BA%E6%99%AF%E6%8C%91/)
 * [在Google Chrome WebRTC中分层蛋糕式的VP9 SVC](https://www.zego.im/article/2018/02/26/%E5%9C%A8google-chrome-webrtc%E4%B8%AD%E5%88%86%E5%B1%82%E8%9B%8B%E7%B3%95%E5%BC%8F%E7%9A%84vp9-svc/)
 * [webrtc-build-scripts(ios && android build script)](https://github.com/pristineio/webrtc-build-scripts)
 * [WebRTC的拥塞控制和带宽策略](https://mp.weixin.qq.com/s/Ej63-FTe5-2pkxyXoXBUTw)
