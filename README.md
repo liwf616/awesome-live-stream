@@ -74,6 +74,11 @@
 * [HLS fmp4 h264点播播放地址](https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s-fmp4/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8)
 * [HLS fmp4 h265点播播放地址](http://bitmovin-a.akamaihd.net/content/dataset/multi-codec/hevc/stream_fmp4.m3u8)
 
+* [**第一章：TS预备知识**](https://www.onelib.biz/doc/stb/course/prereading.html)
+* [**第二章：从TS到PAT和PMT**](https://www.onelib.biz/doc/stb/course/begin.html)
+* [**第三章：深入学习PSI**](https://www.onelib.biz/doc/stb/course/psi.html)
+* [**第四章：深入学习SI**](https://www.onelib.biz/doc/stb/course/si.html)
+
 ## HLS协议规范
 
 * [HLS 最新的协议（cbcs）](https://tools.ietf.org/html/rfc8216)
