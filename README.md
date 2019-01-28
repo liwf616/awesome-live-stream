@@ -65,6 +65,7 @@
 * [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 * [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
 * [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
+* [B站QUIC实践之路](https://mp.weixin.qq.com/s/DrGm-OkSpJbzPWbFmSBT8g)
 * [RTP over QUIC draft-rtpfolks-quic-rtp-over-quic-01](https://tools.ietf.org/html/draft-rtpfolks-quic-rtp-over-quic-01)
 
 ## HLS学习资料快速链接
