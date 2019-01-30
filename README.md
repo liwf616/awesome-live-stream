@@ -42,7 +42,8 @@
 * [webrtc-build-scripts(ios && android build script)](https://github.com/pristineio/webrtc-build-scripts)
 * [WebRTC的拥塞控制和带宽策略](https://mp.weixin.qq.com/s/Ej63-FTe5-2pkxyXoXBUTw)
 * [Webrtc Data channel --- QUIC](https://w3c.github.io/webrtc-quic/)
-* [聊聊WebRTC网关服务器2：如何选择PeerConnection方案？](http://yunxin.163.com/blog/webrtc-2/)
+* [聊聊WebRTC网关服务器1：如何选择服务端端口方案?](http://yunxin.163.com/blog/webrtc-1/)
+* [聊聊WebRTC网关服务器2：如何选择PeerConnection方案?](http://yunxin.163.com/blog/webrtc-2/)
 
 ## Nginx学习资料快速链接
 
