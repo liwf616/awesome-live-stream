@@ -31,7 +31,7 @@
 * [Considerations for deploying a geographically distributed video conferencing system](https://jitsi.org/wp-content/uploads/2018/11/ccwc2018-geo.pdf)
 * [**支持webrtc人脸实时检测**](https://github.com/justadudewhohacks/face-api.js)
 * [谁是最好的WebRTC SFU？](https://mp.weixin.qq.com/s/H_kBcWrzvqFlvSJyPXCeQw)
-* [**WebRTC Media Server--medooze**](https://github.com/medooze)
+* [WebRTC Media Server--medooze](https://github.com/medooze)
 * [medooze 学习笔记](https://github.com/liwf616/awesome-live-stream/wiki/medooze)
 * [medooze API For node.js](https://medooze.github.io/media-server-node/)
 * [WebRTC Media Server--pions](https://github.com/pions/webrtc)
