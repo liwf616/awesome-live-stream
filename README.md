@@ -44,6 +44,7 @@
 * [Webrtc Data channel --- QUIC](https://w3c.github.io/webrtc-quic/)
 * [聊聊WebRTC网关服务器1：如何选择服务端端口方案?](http://yunxin.163.com/blog/webrtc-1/)
 * [聊聊WebRTC网关服务器2：如何选择PeerConnection方案?](http://yunxin.163.com/blog/webrtc-2/)
+* [聊聊WebRTC网关服务器3：如何优化Server的线程方案？](https://zhuanlan.zhihu.com/p/37538078)
 
 ## Nginx学习资料快速链接
 
