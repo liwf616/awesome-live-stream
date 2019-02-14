@@ -117,6 +117,7 @@
 ## 行业报告
 
 * [Bitmovin: 视频开发者报告 2018](https://mp.weixin.qq.com/s/2o-lt3RKwybE3iXXLc7eqQ)
+* [2019年低延迟直播技术展望](https://mp.weixin.qq.com/s/Q0TbJCkr_wNPkX1VpsXr5g)
 
 ## webrtc rfc
 
