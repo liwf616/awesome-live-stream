@@ -113,6 +113,7 @@
 * [2017腾讯LIVE开发者大会](https://github.com/iv-web/ppts/tree/master/2017_TLC_ppts)
 * [2018腾讯LIVE开发者大会](https://github.com/iv-web/ppts/tree/master/2018_TLC_ppts)
 * [2017杭州云栖大会100位大咖视频+讲义全分享](https://yq.aliyun.com/articles/231065)
+* [FOSDEM 2019 - Real Time Communications (RTC) devroom](https://fosdem.org/2019/schedule/track/real_time_communications_rtc/)
 
 ## 行业报告
 
