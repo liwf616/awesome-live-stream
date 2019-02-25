@@ -61,7 +61,7 @@
 * [ngx-sample-lua-bt (CPU Flame Graphs)](https://github.com/openresty/openresty-systemtap-toolkit#ngx-sample-lua-bt)
 * [awesome-nginx](https://github.com/agile6v/awesome-nginx)
 
-## Quic && KCP && KTP学习资料快速链接
+## Quic && KCP && KTP && PCC学习资料快速链接
 
 * [kcp-go](https://github.com/xtaci/kcp-go)
 * [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
@@ -70,6 +70,8 @@
 * [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
 * [B站QUIC实践之路](https://mp.weixin.qq.com/s/DrGm-OkSpJbzPWbFmSBT8g)
 * [RTP over QUIC draft-rtpfolks-quic-rtp-over-quic-01](https://tools.ietf.org/html/draft-rtpfolks-quic-rtp-over-quic-01)
+* [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
+* [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
 
 ## HLS学习资料快速链接
 
