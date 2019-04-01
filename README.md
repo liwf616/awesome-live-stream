@@ -108,6 +108,7 @@
 * [qt实现的mp4分析工具](https://github.com/ksvc/MediaParser)
 * [弱网模拟的工具-network-emulator-toolkit](https://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)
 * [弱网模拟的工具-clumsy](https://jagt.github.io/clumsy/)
+* [webrtc munge-sdp](https://webrtc.github.io/samples/src/content/peerconnection/munge-sdp/)
 
 
 ## 音视频峰会
