@@ -46,6 +46,7 @@
 * [WebRTC拥塞控制策略](https://www.freehacker.cn/media/webrtc-gcc/)
 * [Implement H264 simulcast support and generalize SimulcastEncoderAdapter use for H264 & VP8.](https://webrtc-review.googlesource.com/c/src/+/64100)
 * [Simulcast and Janus: what’s new? (and where’s my SSRC?)](https://www.meetecho.com/blog/simulcast-janus-ssrc/)
+* [webrtc-load-testing](https://www.cosmosoftware.io/products/webrtc-load-testing)
 
 ## Nginx学习资料快速链接
 
