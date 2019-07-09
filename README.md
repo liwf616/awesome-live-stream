@@ -49,6 +49,12 @@
 * [webrtc-load-testing](https://www.cosmosoftware.io/products/webrtc-load-testing)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences] (https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 
+## 拥塞控制和BWE算法
+* [小议WebRTC拥塞控制算法：GCC介绍] (http://yunxin.163.com/blog/video18-0905/)
+* [EricssonResearch/scream] (https://github.com/EricssonResearch/scream)
+* [Bandwidth Estimation in WebRTC (and the new Sender Side BWE) ] (http://www.rtcbits.com/2017/01/bandwidth-estimation-in-webrtc-and-new.html)
+* [WebRTC-GCC两种实现方案对比] (https://www.freehacker.cn/media/tcc-vs-gcc/)
+
 ## Nginx学习资料快速链接
 
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
