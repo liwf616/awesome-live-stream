@@ -38,7 +38,6 @@
 * [跨国实时网络调度系统设计(即构科技)](https://www.zego.im/article/2018/10/29/%E5%86%BC%E7%89%9B%EF%BC%9A%E5%8D%B3%E6%9E%84%E5%AE%9E%E6%97%B6%E7%BD%91%E7%BB%9C%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E8%B7%A8%E5%9B%BD%E5%9C%BA%E6%99%AF%E6%8C%91/)
 * [在Google Chrome WebRTC中分层蛋糕式的VP9 SVC](https://www.zego.im/article/2018/02/26/%E5%9C%A8google-chrome-webrtc%E4%B8%AD%E5%88%86%E5%B1%82%E8%9B%8B%E7%B3%95%E5%BC%8F%E7%9A%84vp9-svc/)
 * [webrtc-build-scripts(ios && android build script)](https://github.com/pristineio/webrtc-build-scripts)
-* [WebRTC的拥塞控制和带宽策略](https://mp.weixin.qq.com/s/Ej63-FTe5-2pkxyXoXBUTw)
 * [Webrtc Data channel --- QUIC](https://w3c.github.io/webrtc-quic/)
 * [聊聊WebRTC网关服务器1：如何选择服务端端口方案?](http://yunxin.163.com/blog/webrtc-1/)
 * [聊聊WebRTC网关服务器2：如何选择PeerConnection方案?](http://yunxin.163.com/blog/webrtc-2/)
@@ -54,6 +53,7 @@
 * [EricssonResearch/scream](https://github.com/EricssonResearch/scream)
 * [Bandwidth Estimation in WebRTC (and the new Sender Side BWE) ](http://www.rtcbits.com/2017/01/bandwidth-estimation-in-webrtc-and-new.html)
 * [WebRTC-GCC两种实现方案对比](https://www.freehacker.cn/media/tcc-vs-gcc/)
+* [WebRTC的拥塞控制和带宽策略](https://mp.weixin.qq.com/s/Ej63-FTe5-2pkxyXoXBUTw)
 
 ## Nginx学习资料快速链接
 
