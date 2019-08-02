@@ -47,6 +47,7 @@
 * [Simulcast and Janus: what’s new? (and where’s my SSRC?)](https://www.meetecho.com/blog/simulcast-janus-ssrc/)
 * [webrtc-load-testing](https://www.cosmosoftware.io/products/webrtc-load-testing)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
+* [如何构建分布式SFU/MCU媒体服务器？](https://mp.weixin.qq.com/s/VelFZ4QYtu6XKhBpx685lw)
 
 ## 拥塞控制和BWE算法
 * [小议WebRTC拥塞控制算法：GCC介绍](http://yunxin.163.com/blog/video18-0905/)
