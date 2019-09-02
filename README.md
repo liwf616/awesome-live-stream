@@ -56,6 +56,8 @@
 * [Bandwidth Estimation in WebRTC (and the new Sender Side BWE) ](http://www.rtcbits.com/2017/01/bandwidth-estimation-in-webrtc-and-new.html)
 * [WebRTC-GCC两种实现方案对比](https://www.freehacker.cn/media/tcc-vs-gcc/)
 * [WebRTC的拥塞控制和带宽策略](https://mp.weixin.qq.com/s/Ej63-FTe5-2pkxyXoXBUTw)
+* [Congestion Control and Packet Scheduling for
+Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8701688)
 
 ## Nginx学习资料快速链接
 
