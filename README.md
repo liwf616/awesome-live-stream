@@ -50,6 +50,9 @@
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 * [如何构建分布式SFU/MCU媒体服务器？](https://mp.weixin.qq.com/s/VelFZ4QYtu6XKhBpx685lw)
 
+## JitterBuffer
+* [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
+
 ## 拥塞控制和BWE算法
 * [小议WebRTC拥塞控制算法：GCC介绍](http://yunxin.163.com/blog/video18-0905/)
 * [EricssonResearch/scream](https://github.com/EricssonResearch/scream)
