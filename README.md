@@ -90,6 +90,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
 * [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
 * [Savoury implementation of the QUIC transport protocol and HTTP/3](https://github.com/cloudflare/quiche)
+* [nginx-quic](https://github.com/evansun922/nginx-quic)
 
 ## SRT学习资料链接
 
