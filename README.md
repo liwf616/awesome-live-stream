@@ -49,6 +49,7 @@
 * [webrtc-load-testing](https://www.cosmosoftware.io/products/webrtc-load-testing)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 * [如何构建分布式SFU/MCU媒体服务器？](https://mp.weixin.qq.com/s/VelFZ4QYtu6XKhBpx685lw)
+* [姜健：VP9 可適性視訊編碼 (SVC) 新特性](https://www.jishuwen.com/d/2VKl/zh-tw)
 
 ## JitterBuffer
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
