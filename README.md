@@ -78,6 +78,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [sample-bt (CPU Flame Graphs)](https://github.com/openresty/openresty-systemtap-toolkit#sample-bt)
 * [ngx-sample-lua-bt (CPU Flame Graphs)](https://github.com/openresty/openresty-systemtap-toolkit#ngx-sample-lua-bt)
 * [awesome-nginx](https://github.com/agile6v/awesome-nginx)
+* [annotated_nginx](https://github.com/chronolaw/annotated_nginx)
 
 ## Quic && KCP && KTP && PCC && srt学习资料快速链接
 
