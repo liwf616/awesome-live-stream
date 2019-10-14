@@ -56,6 +56,9 @@
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
 * [WebRTC Native 源码导读（十五）：RTP H.264 封装与解封装](https://blog.piasy.com/2019/01/01/WebRTC-RTP-Mux-Demux/index.html)
 
+## SDP
+* [SDP学习](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
+
 ## 拥塞控制和BWE算法
 * [小议WebRTC拥塞控制算法：GCC介绍](http://yunxin.163.com/blog/video18-0905/)
 * [EricssonResearch/scream](https://github.com/EricssonResearch/scream)
@@ -65,7 +68,6 @@
 * [WebRTC帧率调整策略](https://www.freehacker.cn/media/webrtc-frame/)
 * [Congestion Control and Packet Scheduling for
 Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8701688)
-* [SDP学习](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
 
 ## Nginx学习资料快速链接
 
