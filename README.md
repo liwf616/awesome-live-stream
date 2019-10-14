@@ -65,6 +65,7 @@
 * [WebRTC帧率调整策略](https://www.freehacker.cn/media/webrtc-frame/)
 * [Congestion Control and Packet Scheduling for
 Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8701688)
+* [SDP学习](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
 
 ## Nginx学习资料快速链接
 
