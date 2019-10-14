@@ -163,7 +163,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [rfc5245（ICE)](http://www.faqs.org/rfcs/rfc5245.html)
 * [rfc3550（RTP）](http://www.ietf.org/rfc/rfc3550.txt)
 * [RTP Payload Format for H.264 Video](https://tools.ietf.org/html/rfc6184)
-* [rfc3264（Offer/Answer, SDP）](https://tools.ietf.org/html/rfc4566)
+* [rfc4566（SDP: Session Description Protocol）](https://tools.ietf.org/html/rfc4566)
 * [Annotated Example SDP for WebRTC draft-ietf-rtcweb-sdp-09](https://tools.ietf.org/html/draft-ietf-rtcweb-sdp-09)
 * [rfc3711 (srtp)](https://www.ietf.org/rfc/rfc3711.txt)
 * [rfc5285 (A General Mechanism for RTP Header Extensions）](https://tools.ietf.org/html/rfc5285)
