@@ -57,7 +57,7 @@
 * [WebRTC Native 源码导读（十五）：RTP H.264 封装与解封装](https://blog.piasy.com/2019/01/01/WebRTC-RTP-Mux-Demux/index.html)
 
 ## SDP
-* [SDP学习](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
+* [SDP Info](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
 
 ## 拥塞控制和BWE算法
 * [小议WebRTC拥塞控制算法：GCC介绍](http://yunxin.163.com/blog/video18-0905/)
