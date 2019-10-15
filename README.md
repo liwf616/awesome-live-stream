@@ -73,6 +73,8 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Congestion Control for Real-time Communications: a comparison between NADA and GCC](https://c3lab.poliba.it/images/3/39/Med-conf-gcc.pdf)
 * [一文解释清楚GOOGLE BBR拥塞控制算法原理](https://www.taohui.pub/2019/08/07/%E4%B8%80%E6%96%87%E8%A7%A3%E9%87%8A%E6%B8%85%E6%A5%9Agoogle-bbr%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86/)
 * [BBR及其在实时音视频领域的应用](https://mp.weixin.qq.com/s/8Hy5SBWXzhZ2X4YnjFflJw)
+* [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
+* [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
 
 ## Nginx学习资料快速链接
 
@@ -99,8 +101,6 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
 * [B站QUIC实践之路](https://mp.weixin.qq.com/s/DrGm-OkSpJbzPWbFmSBT8g)
 * [RTP over QUIC draft-rtpfolks-quic-rtp-over-quic-01](https://tools.ietf.org/html/draft-rtpfolks-quic-rtp-over-quic-01)
-* [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
-* [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
 * [Savoury implementation of the QUIC transport protocol and HTTP/3](https://github.com/cloudflare/quiche)
 * [nginx-quic开源实现](https://github.com/evansun922/nginx-quic)
 
@@ -119,18 +119,15 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [第二章：从TS到PAT和PMT](https://www.onelib.biz/doc/stb/course/begin.html)
 * [第三章：深入学习PSI](https://www.onelib.biz/doc/stb/course/psi.html)
 * [第四章：深入学习SI](https://www.onelib.biz/doc/stb/course/si.html)
+* [HLS vs DASH vs HDS vs MSS](https://bitmovin.com/mpeg-dash-vs-apple-hls-vs-microsoft-smooth-streaming-vs-adobe-hds/)
 
 ## HLS协议规范
 
 * [HLS 最新的协议（cbcs）](https://tools.ietf.org/html/rfc8216)
-
 * [mp4 规范(亚马逊的fmp4实现参照这个方案)](http://l.web.umkc.edu/lizhu/teaching/2016sp.video-communication/ref/mp4.pdf)
-
 * [HLS对4K技术的支持](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Apple-Got-It-Wrong-Encoding-Specs-for-HEVC-in-HLS--121878.aspx)
-
 * [HLS对HDR技术的支持](https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
 
-* [HLS vs DASH vs HDS vs MSS](https://bitmovin.com/mpeg-dash-vs-apple-hls-vs-microsoft-smooth-streaming-vs-adobe-hds/)
 
 ## 通用工具
 
