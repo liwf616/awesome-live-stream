@@ -43,6 +43,7 @@
 * [聊聊WebRTC网关服务器1：如何选择服务端端口方案?](http://yunxin.163.com/blog/webrtc-1/)
 * [聊聊WebRTC网关服务器2：如何选择PeerConnection方案?](http://yunxin.163.com/blog/webrtc-2/)
 * [聊聊WebRTC网关服务器3：如何优化Server的线程方案？](https://zhuanlan.zhihu.com/p/37538078)
+* [聊聊WebRTC网关服务器4：QoS方案分析](https://zhuanlan.zhihu.com/p/37589412)
 * [WebRTC拥塞控制策略](https://www.freehacker.cn/media/webrtc-gcc/)
 * [Implement H264 simulcast support and generalize SimulcastEncoderAdapter use for H264 & VP8.](https://webrtc-review.googlesource.com/c/src/+/64100)
 * [Simulcast and Janus: what’s new? (and where’s my SSRC?)](https://www.meetecho.com/blog/simulcast-janus-ssrc/)
