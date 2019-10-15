@@ -75,6 +75,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [BBR及其在实时音视频领域的应用](https://mp.weixin.qq.com/s/8Hy5SBWXzhZ2X4YnjFflJw)
 * [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
 * [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
+* [WebRTC基于TransportCC和Trendline Filter的发送端码率估计(Sendside-BWE)](https://www.jianshu.com/p/ab32a8a3552f)
 
 ## Nginx学习资料快速链接
 
