@@ -165,7 +165,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 ## Webrtc rfc
 
 * [rfc5245（ICE)](http://www.faqs.org/rfcs/rfc5245.html)
-* [rfc3550（RTP）](http://www.ietf.org/rfc/rfc3550.txt)
+* [rfc3550（RTP: A Transport Protocol for Real-Time Applications）](http://www.ietf.org/rfc/rfc3550.txt)
 * [RTP Payload Format for H.264 Video](https://tools.ietf.org/html/rfc6184)
 * [rfc4566（SDP: Session Description Protocol）](https://tools.ietf.org/html/rfc4566)
 * [Annotated Example SDP for WebRTC draft-ietf-rtcweb-sdp-09](https://tools.ietf.org/html/draft-ietf-rtcweb-sdp-09)
