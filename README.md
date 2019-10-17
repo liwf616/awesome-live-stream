@@ -77,6 +77,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [PCC Vivace: Online-Learning Congestion Control](https://www.usenix.org/conference/nsdi18/presentation/dong)
 * [PCC: Performance-oriented Congestion Control](https://modong.github.io/pcc-page/)
 * [WebRTC基于TransportCC和Trendline Filter的发送端码率估计(Sendside-BWE)](https://www.jianshu.com/p/ab32a8a3552f)
+* [Analysis and Design of the Google Congestion Control for Web Real-time Communication (WebRTC)](https://c3lab.poliba.it/images/6/65/Gcc-analysis.pdf)
 
 ## Nginx学习资料快速链接
 
@@ -94,7 +95,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [awesome-nginx](https://github.com/agile6v/awesome-nginx)
 * [annotated_nginx](https://github.com/chronolaw/annotated_nginx)
 
-## Quic && KCP && KTP && PCC && srt学习资料快速链接
+## Quic && KCP && KTP && PCC && SRT 学习资料快速链接
 
 * [kcp-go](https://github.com/xtaci/kcp-go)
 * [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
