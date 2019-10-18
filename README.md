@@ -80,6 +80,9 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Analysis and Design of the Google Congestion Control for Web Real-time Communication (WebRTC)](https://c3lab.poliba.it/images/6/65/Gcc-analysis.pdf)
 * [Evaluating Congestion Control for Interactive Real-time Media](https://datatracker.ietf.org/doc/draft-ietf-rmcat-eval-criteria/)
 
+## Qos优化 - 测试方法
+* [WebRTC vs. Zoom 之外：WebRTC 的弱网模拟测试](https://webrtc.org.cn/network-test-for-webrtc/)
+
 ## Nginx学习资料快速链接
 
 * [Nginx 对udp多packet的支持](http://hg.nginx.org/nginx/rev/d27aa9060c95)
