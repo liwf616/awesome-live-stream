@@ -135,7 +135,6 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [HLS对4K技术的支持](http://www.streamingmedia.com/Articles/Editorial/Featured-Articles/Apple-Got-It-Wrong-Encoding-Specs-for-HEVC-in-HLS--121878.aspx)
 * [HLS对HDR技术的支持](https://streaminglearningcenter.com/blogs/apple-updates-hls-authoring-spec-4k-hdr.html)
 
-
 ## 通用工具
 
 * [DASH 播放器](http://reference.dashif.org/dash.js/nightly/samples/dash-if-reference-player/index.html)
@@ -147,7 +146,6 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [弱网模拟的工具-network-emulator-toolkit](https://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)
 * [弱网模拟的工具-clumsy](https://jagt.github.io/clumsy/)
 * [webrtc munge-sdp](https://webrtc.github.io/samples/src/content/peerconnection/munge-sdp/)
-
 
 ## 音视频峰会
 
@@ -183,7 +181,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [WebRTC MediaStream Identification in the Session Description Protocol draft-ietf-mmusic-msid-16](https://tools.ietf.org/html/draft-ietf-mmusic-msid-16)
 * [Using Simulcast in SDP and RTP Sessions(draft-ietf-mmusic-sdp-simulcast-11)](https://tools.ietf.org/id/draft-ietf-mmusic-sdp-simulcast-11.html)
 * [Selective Forwarding Middlebox](https://tools.ietf.org/html/rfc7667#section-3.7)
-
+* [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 
 ## DASH常用的命令
 
