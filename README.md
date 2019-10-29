@@ -80,7 +80,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Analysis and Design of the Google Congestion Control for Web Real-time Communication (WebRTC)](https://c3lab.poliba.it/images/6/65/Gcc-analysis.pdf)
 * [Evaluating Congestion Control for Interactive Real-time Media](https://datatracker.ietf.org/doc/draft-ietf-rmcat-eval-criteria/)
 * [WebRTC中PacedSender工作原理和代码分析](https://www.jianshu.com/p/3fde9b8d77f6)
-* [Webrtc Nack重传指数退避算法，对上行丢包作用很大，刚踩坑](https://gitlab.com/webrtc-mirror/webrtc/commit/3eae7e4e3cdf1a7459905e734f2902876bdaa9cd)
+* [Webrtc Nack重传指数退避算法](https://gitlab.com/webrtc-mirror/webrtc/commit/3eae7e4e3cdf1a7459905e734f2902876bdaa9cd)
 
 ## Qos优化 - 测试方法
 * [WebRTC vs. Zoom 之外：WebRTC 的弱网模拟测试](https://webrtc.org.cn/network-test-for-webrtc/)
