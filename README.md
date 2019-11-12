@@ -184,6 +184,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Using Simulcast in SDP and RTP Sessions(draft-ietf-mmusic-sdp-simulcast-11)](https://tools.ietf.org/id/draft-ietf-mmusic-sdp-simulcast-11.html)
 * [Selective Forwarding Middlebox](https://tools.ietf.org/html/rfc7667#section-3.7)
 * [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
+* [RTP Payload Format for Flexible Forward Error Correction (FEC)](https://tools.ietf.org/id/draft-ietf-payload-flexible-fec-scheme-06.html)
 
 ## DASH常用的命令
 
