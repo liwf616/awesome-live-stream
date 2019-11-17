@@ -166,6 +166,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [On the Road to WebRTC 1.0, Including VP8](https://webkit.org/blog/8672/on-the-road-to-webrtc-1-0-including-vp8/)
 * [低延时HLS直播（苹果公司）](https://developer.apple.com/videos/play/wwdc2019/502/)
 * [【杭州云栖】AliQUIC：场景化高性能传输网络实践](http://blog.itpub.net/31550522/viewspace-2215505/)
+* [WebRTC project updates 2019年11月15日](https://www.youtube.com/watch?v=avtlQeaxd_I&feature=youtu.be)
 
 ## Webrtc rfc
 
