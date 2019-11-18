@@ -81,6 +81,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Evaluating Congestion Control for Interactive Real-time Media](https://datatracker.ietf.org/doc/draft-ietf-rmcat-eval-criteria/)
 * [WebRTC中PacedSender工作原理和代码分析](https://www.jianshu.com/p/3fde9b8d77f6)
 * [Webrtc Nack重传指数退避算法](https://gitlab.com/webrtc-mirror/webrtc/commit/3eae7e4e3cdf1a7459905e734f2902876bdaa9cd)
+* [Evaluating COPA congestion control for improved video performance](https://engineering.fb.com/video-engineering/copa/)
 
 ## Qos优化 - 测试方法
 * [WebRTC vs. Zoom 之外：WebRTC 的弱网模拟测试](https://webrtc.org.cn/network-test-for-webrtc/)
