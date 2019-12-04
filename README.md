@@ -55,6 +55,7 @@
 
 ## SDP
 * [SDP Info](https://github.com/liwf616/awesome-live-stream/wiki/sdpinfo)
+* [**Anatomy of a WebRTC SDP**](https://webrtchacks.com/sdp-anatomy/)
 
 ## Qos优化 - JitterBuffer
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
