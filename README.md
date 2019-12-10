@@ -121,6 +121,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 
 * [ffmpeg enable-libsrt问题解决](https://blog.csdn.net/liwf616/article/details/99215608)
 * [srt-live-server](https://github.com/Edward-Wu/srt-live-server)
+* [拆解SRT：新UDP视频传输协议](https://mp.weixin.qq.com/s/1VcmQgYHEH4oih9BnRv_Og)
 
 ## HLS学习资料快速链接
 
