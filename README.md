@@ -173,6 +173,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [低延时HLS直播（苹果公司）](https://developer.apple.com/videos/play/wwdc2019/502/)
 * [【杭州云栖】AliQUIC：场景化高性能传输网络实践](http://blog.itpub.net/31550522/viewspace-2215505/)
 * [WebRTC project updates 2019年11月15日](https://www.youtube.com/watch?v=avtlQeaxd_I&feature=youtu.be)
+* [如何构建分布式SFU/MCU媒体服务器？](https://cloud.tencent.com/developer/article/1478326)
 
 ## Webrtc rfc
 
