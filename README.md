@@ -61,7 +61,7 @@
 * [**Anatomy of a WebRTC SDP**](https://webrtchacks.com/sdp-anatomy/)
 * [Unified Plan 过度指南](https://ouchunrun.github.io/2018/10/23/%E2%80%9CUnified%20Plan%E2%80%9D%20%E8%BF%87%E6%B8%A1%E6%8C%87%E5%8D%97/)
 
-##ICE
+## ICE
 * [webrtc P2P 连接过程](https://blog.piasy.com/2017/08/30/WebRTC-P2P-part1/index.html)
 
 ## Qos优化 - JitterBuffer
