@@ -198,6 +198,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Selective Forwarding Middlebox](https://tools.ietf.org/html/rfc7667#section-3.7)
 * [Scalable Video Coding (SVC) Extension for WebRTC](https://w3c.github.io/webrtc-svc/)
 * [RTP Payload Format for Flexible Forward Error Correction (FEC)](https://tools.ietf.org/id/draft-ietf-payload-flexible-fec-scheme-06.html)
+* [ICE Renomination: Dynamically selecting ICE candidate pairs draft-thatcher-ice-renomination-01](https://tools.ietf.org/html/draft-thatcher-ice-renomination-01)
 
 ## DASH常用的命令
 
