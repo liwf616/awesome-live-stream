@@ -174,6 +174,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [2017杭州云栖大会100位大咖视频+讲义全分享](https://yq.aliyun.com/articles/231065)
 * [FOSDEM 2019 - Real Time Communications (RTC) devroom](https://fosdem.org/2019/schedule/track/real_time_communications_rtc/)
 * [2019杭州云栖大会回顾](https://yunqi.youku.com/2019/hangzhou/review?spm=a2c4e.11165380.1395223.1)
+* [URTC万人直播互动实践之路](https://mp.weixin.qq.com/s/l9rmV0fNm2UKRcFB-1tPxw)
 
 ## 行业报告
 
