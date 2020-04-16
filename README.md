@@ -67,6 +67,7 @@
 
 ## ICE
 * [webrtc P2P 连接过程](https://blog.piasy.com/2017/08/30/WebRTC-P2P-part1/index.html)
+* [webrtc quic transport](https://webrtc.org.cn/20190411-protocol-webrtc-nattraversal/)
 
 ## Qos优化 - JitterBuffer
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
