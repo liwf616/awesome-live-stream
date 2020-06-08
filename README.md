@@ -22,7 +22,6 @@
 * [完整WebRTC技术及应用概要](https://mp.weixin.qq.com/s/EC8Yd74HEoIO2QxJe8-iNQ)
 * [WebRTC权威指南.pdf(第三版,建议大家购买正版书籍)](https://github.com/mobinsheng/books/blob/master/1.%20WebRTC%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97%EF%BC%88%E7%AC%AC%E4%B8%89%E7%89%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 * [WebRTC语音引擎中NetEQ技术的研究_吴江锐.pdf](https://github.com/mobinsheng/books/blob/master/WebRTC%E8%AF%AD%E9%9F%B3%E5%BC%95%E6%93%8E%E4%B8%ADNetEQ%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A0%94%E7%A9%B6_%E5%90%B4%E6%B1%9F%E9%94%90.pdf)
-* [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 * [Comparative Study of WebRTC Open Source SFUs for Video Conferencing(开源webrtc的sfu效果对比)](https://www.cosmosoftware.io/publications/andre2018_Comparative_Study_of_SFUs.pdf)
 * [andre2018_slides_Comparative_Study_of_SFUs](https://www.cosmosoftware.io/publications/andre2018_slides_Comparative_Study_of_SFUs.pdf)
 * [Improving Scale and Media Quality with Cascading SFUs](https://webrtchacks.com/sfu-cascading/)
@@ -68,6 +67,10 @@
 ## ICE
 * [webrtc P2P 连接过程](https://blog.piasy.com/2017/08/30/WebRTC-P2P-part1/index.html)
 * [webrtc quic transport](https://webrtc.org.cn/20190411-protocol-webrtc-nattraversal/)
+
+## FEC
+* [FEC之我见二](https://blog.csdn.net/zjqlovell/article/details/50978756)
+* [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 
 ## Qos优化 - JitterBuffer
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
