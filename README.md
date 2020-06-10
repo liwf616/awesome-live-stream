@@ -53,6 +53,8 @@
 * [WebRTC演示分屏实现思路](https://ouchunrun.github.io/2018/10/25/WebRTC%E6%BC%94%E7%A4%BA%E5%88%86%E5%B1%8F%E5%AE%9E%E7%8E%B0%E6%80%9D%E8%B7%AF/)
 * [how-many-users-webrtc-call](https://bloggeek.me/how-many-users-webrtc-call/)
 * [移动互联网的音视频传输挑战（声网）](https://myslide.cn/slides/1407?vertical=1)
+* [Dominant speaker identification for multipoint videoconferencing](https://webee.technion.ac.il/Sites/People/IsraelCohen/Publications/CSL_June2013.pdf)
+* [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 
 ## MediaServer
 * [WebRTC 流媒体服务器（三）- Mediasoup](https://miaopei.github.io/2019/10/21/WebRTC/mediaserver-02/)
