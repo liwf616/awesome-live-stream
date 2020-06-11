@@ -74,6 +74,9 @@
 * [FEC之我见二](https://blog.csdn.net/zjqlovell/article/details/50978756)
 * [webrtc学习之fec模块(ULPFEC Fec && Flex Fec)](https://xjsxjtu.github.io/2017-07-16/LearningWebRTC-fec/)
 
+## 编解码
+* [AV1的实时模式](https://mp.weixin.qq.com/s/JVkADQaFmTOD7_g90XFoMg)
+
 ## Qos优化 - JitterBuffer
 * [ENHANCING THE QOS OF A VOIP CALL USING AN ADAPTIVE JITTER BUFFER PLAYOUT ALGORITHM WITH VARIABLE WINDOW SIZE](https://pdfs.semanticscholar.org/4665/8c1712933ca5768b6fe761b16e9ad2d4c4b9.pdf?_ga=2.239747271.550109747.1567499718-210743274.1564378121)
 * [WebRTC Native 源码导读（十五）：RTP H.264 封装与解封装](https://blog.piasy.com/2019/01/01/WebRTC-RTP-Mux-Demux/index.html)
