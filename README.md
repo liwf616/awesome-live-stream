@@ -123,7 +123,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 ## Quic && KCP && KTP && PCC && SRT 学习资料快速链接
 
 * [kcp-go](https://github.com/xtaci/kcp-go)
-* [Nginx支持quic的最新消息](https://trac.nginx.org/nginx/ticket/1057)
+* [Nginx支持quic的最新消息](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/?from=timeline)
 * [Golang版本quic<==>quic-go](https://github.com/lucas-clemente/quic-go)
 * [QUIC 开源项目汇总](https://github.com/quicwg/base-drafts/wiki/Implementations)
 * [快手多媒体传输算法优化实践](https://mp.weixin.qq.com/s/iyX6bEBTQxd2V9OXNnvUUA)
