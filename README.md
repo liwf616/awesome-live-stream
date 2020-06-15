@@ -55,6 +55,7 @@
 * [移动互联网的音视频传输挑战（声网）](https://myslide.cn/slides/1407?vertical=1)
 * [Dominant speaker identification for multipoint videoconferencing](https://webee.technion.ac.il/Sites/People/IsraelCohen/Publications/CSL_June2013.pdf)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
+* [webrtcH4cKS: ~ How Zoom’s web client avoids using WebRTC (DataChannel Update)](https://webrtchacks.com/zoom-avoids-using-webrtc/#datachannels)
 
 ## MediaServer
 * [WebRTC 流媒体服务器（三）- Mediasoup](https://miaopei.github.io/2019/10/21/WebRTC/mediaserver-02/)
