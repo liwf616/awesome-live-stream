@@ -138,6 +138,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [mvfst - An implementation of the QUIC transport protocol.](https://github.com/facebookincubator/mvfst)
 * [Experiment with HTTP/3 using NGINX and quiche](https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/)
 * [msquic](https://github.com/microsoft/msquic)
+* [阿里XQUIC：标准QUIC实现自研之路](https://mp.weixin.qq.com/s/pBv_DnG05YWl4ZYRHThaTw)
 
 ## SRT学习资料链接
 
