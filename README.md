@@ -58,6 +58,7 @@
 * [webrtcH4cKS: ~ How Zoom’s web client avoids using WebRTC (DataChannel Update)](https://webrtchacks.com/zoom-avoids-using-webrtc/#datachannels)
 * [FreeSWITCH视频会议“标准”解决方案](https://mp.weixin.qq.com/s/LOCxUNBA1j94qJPqY1RKrA)
 * [Dominant Speaker Identification for Multipoint Videoconferencing](https://israelcohen.com/wp-content/uploads/2018/05/IEEEI2012_Volfin.pdf)
+* [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 
 
 
