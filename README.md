@@ -59,6 +59,7 @@
 * [FreeSWITCH视频会议“标准”解决方案](https://mp.weixin.qq.com/s/LOCxUNBA1j94qJPqY1RKrA)
 * [Dominant Speaker Identification for Multipoint Videoconferencing](https://israelcohen.com/wp-content/uploads/2018/05/IEEEI2012_Volfin.pdf)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
+* [腾讯云快直播——超低延迟直播技术方案及应用]https://mp.weixin.qq.com/s/4gy5RDYrzcs1KjukqdWP_A
 
 
 
