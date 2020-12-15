@@ -146,6 +146,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [Experiment with HTTP/3 using NGINX and quiche](https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/)
 * [msquic](https://github.com/microsoft/msquic)
 * [阿里XQUIC：标准QUIC实现自研之路](https://mp.weixin.qq.com/s/pBv_DnG05YWl4ZYRHThaTw)
+* [QUIC协议在BIGO的实践与优化](https://mp.weixin.qq.com/s/885WDIFohS7rh3avwFRYkA)
 
 ## SRT学习资料链接
 
