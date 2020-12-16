@@ -60,6 +60,7 @@
 * [Dominant Speaker Identification for Multipoint Videoconferencing](https://israelcohen.com/wp-content/uploads/2018/05/IEEEI2012_Volfin.pdf)
 * [Last N: Relevance-Based Selectivity for Forwarding Video in Multimedia Conferences](https://jitsi.org/wp-content/uploads/2016/12/nossdav2015lastn.pdf)
 * [腾讯云快直播——超低延迟直播技术方案及应用](https://mp.weixin.qq.com/s/4gy5RDYrzcs1KjukqdWP_A)
+* [阿里云 GRTN QoS 体系 — 构建实时音视频产品最佳体验](https://mp.weixin.qq.com/s/ElxkvOAZpp_sDCsNaJ9FmQ)
 
 
 
