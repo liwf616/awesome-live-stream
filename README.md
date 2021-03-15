@@ -237,6 +237,7 @@ Multipath Real Time Video Streaming](https://ieeexplore.ieee.org/stamp/stamp.jsp
 * [RTP Payload Format for MPEG-4 Audio/Visual Streams](https://tools.ietf.org/html/rfc3016)
 * [RTP Control Protocol Extended Reports (RTCP XR)](https://tools.ietf.org/html/rfc3611)
 * [Reed-Solomon Forward Error Correction (FEC) Schemes](https://tools.ietf.org/html/rfc5510)
+* [RTP Stream Identifier Source Description (SDES) draft-ietf-avtext-rid-09](https://tools.ietf.org/html/draft-ietf-avtext-rid-09)
 
 ## DASH常用的命令
 
