@@ -64,7 +64,7 @@
 * [How Discord Handles Two and Half Million Concurrent Voice Users using WebRTC](https://blog.discord.com/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc-ce01c3187429)
 * [Spatial audio](https://webrtccourse.com/course/webrtc-codelab/module/fiddle-of-the-month/lesson/spatial-audio/)
 * [Scaling WebRTC for Large Rooms](https://www.slideshare.net/ggarber/scaling-webrtc-for-large-rooms)
-
+* [Meet vs. Duo – 2 faces of Google’s WebRTC](https://webrtchacks.com/meet-vs-duo-2-faces-of-googles-webrtc/)
 
 
 ## MediaServer
